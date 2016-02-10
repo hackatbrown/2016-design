@@ -1,0 +1,1 @@
+These images were rendered by extruding icons in Photoshop, exporting them as .obj files, uploading them to Clara.io, and ray-tracing the objects atop a static image background, which was created in Sketch.
