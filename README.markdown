@@ -4,6 +4,8 @@ Hi! You've found our massive repository of design assets for Hack@Brown 2016 (an
 
 ## The Team
 
+![Kevin, Koko, Nate and Zach](https://raw.githubusercontent.com/hackatbrown/2016-design/master/Team.gif?token=AC6uMTpzuggXPfuKuEM4qQ7OWjdxYaKaks5Ww-UawA%3D%3D)
+
 - [Kevin Ma](http://kevinzma.com)
 - [Koko Nakajima](https://www.behance.net/kokonakajima)
 - [Nate Parrott](http://nateparrott.com)
